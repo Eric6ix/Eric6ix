@@ -53,7 +53,13 @@ Hey there! I'm Eric Martins (aka Zenkai), a 23-year-old developer from Araguaín
 <br>
 <br>
 
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eric6ix/Eric6ix/main/assets/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eric6ix/Eric6ix/main/assets/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Eric6ix/Eric6ix/main/assets/github-snake.svg">
+  </picture>
+</p>
 
 <br>
 <br>
