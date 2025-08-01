@@ -50,7 +50,13 @@ Hey there! I'm Eric Martins (aka Zenkai), a 23-year-old developer from Araguaín
 </div>
 
 ---
+<br>
+<br>
 
+
+
+<br>
+<br>
 <p align="center">
   <a href="https://github.com/Eric6ix">
     <img src="https://github-profile-trophy.vercel.app/?username=Eric6ix&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
