@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b30000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b30000&size=35&center=true&vCenter=true&width=1000&lines=Programming+Ronin;Wanderer+awaiting+his+next+challenge;Instead+of+fighting+demons+with+a+katana;He+battles+bugs+with+keyboard+and+mouse👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b30000&size=35&center=true&vCenter=true&width=1000&lines=Programming+Ronin;Wanderer+awaiting+his+next+challenge;Instead+of+fighting+demons+with+a+katana🥷;He+battles+bugs+with+keyboard+and+mouse👨‍💻)](https://git.io/typing-svg)
 <div align="center">
 <img src="./img/pixel-samurai.gif" alt="Descrição" 
 width="50"/>
