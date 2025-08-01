@@ -12,6 +12,15 @@ Hey there! I'm Eric Martins (aka Zenkai), a 23-year-old developer from Araguaín
 - ☕ Fueled by coffee and clean code  
 
 ---
+<br>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eric6ix/Eric6ix/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eric6ix/Eric6ix/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eric6ix/Eric6ix/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 
 ### 🛠️ Tech Arsenal  
 
@@ -50,16 +59,7 @@ Hey there! I'm Eric Martins (aka Zenkai), a 23-year-old developer from Araguaín
 </div>
 
 ---
-<br>
-<br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eric6ix/Eric6ix/main/assets/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eric6ix/Eric6ix/main/assets/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Eric6ix/Eric6ix/main/assets/github-snake.svg">
-  </picture>
-</p>
 
 <br>
 <br>
@@ -78,6 +78,9 @@ Hey there! I'm Eric Martins (aka Zenkai), a 23-year-old developer from Araguaín
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eric6ix)
 
 ---
+
+<br>
+
 
 > "First, solve the problem. Then, write the code." - John Johnson  
 > Currently automating the future while sipping coffee ☕🚀
