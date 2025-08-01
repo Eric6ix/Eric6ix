@@ -1,5 +1,15 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b30000&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b30000&size=35&center=true&vCenter=true&width=1000&lines=Programming+Ronin;Wanderer+awaiting+his+next+challenge;Instead+of+fighting+demons+with+a+katana;He+battles+bugs+with+keyboard+and+mouse👨‍💻)](https://git.io/typing-svg)
+<div align="center">
+<img src="../img/pixel-samurai.gif" alt="Descrição" 
+width="50"/>
+
+</div>
 # 🥷☕ Eric Martins (ZenkaiDEV)  
 **`FullStack Developer | Automation Engineer`**  
+
+
 
 <a href="https://github.com/Eric6ix">
   <img align="right" src="https://komarev.com/ghpvc/?username=Eric6ix&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
@@ -84,3 +94,6 @@ Hey there! I'm Eric Martins (aka Zenkai), a 23-year-old developer from Araguaín
 
 > "First, solve the problem. Then, write the code." - John Johnson  
 > Currently automating the future while sipping coffee ☕🚀
+
+<img src="../img/samurai.gif" alt="Descrição" width="50"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b30000&height=120&section=footer"/>
